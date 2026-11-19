@@ -18,6 +18,7 @@ Quase todo o meu código está em repositórios privados de clientes. Desde nove
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
+| [Rastro](https://github.com/Rodrigoclc/rastro) | Observabilidade pronta para APIs AdonisJS 5, 6 e 7: biblioteca OpenTelemetry mais Collector, Grafana, dashboard e alertas num `docker compose up`. | TypeScript, OpenTelemetry, Grafana |
 | [Nova](https://github.com/Rodrigoclc/Nova) | Framework HTTP orientado a objetos para TypeScript, com controllers, decorators e DTOs. Experimental. | TypeScript |
 | [GitHub Shoppers](https://github.com/Rodrigoclc/GitHub-Shoppers) | Catálogo de produtos full stack, feito como desafio técnico. [Demonstração](https://github-shoppers.orodrigodev.com.br) | Node.js, React, PostgreSQL |
 | Follow-up.ia | Follow-up automático no WhatsApp para corretores de imóveis. A IA escreve as mensagens; quem decide quando enviar é um motor determinístico. Em testes. | .NET, PostgreSQL |
